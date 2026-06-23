@@ -1,6 +1,7 @@
 # GetMeAChai ☕
 
-<img width="1892" height="861" alt="image" src="https://github.com/user-attachments/assets/78d8973f-b3d3-4cb0-a3f2-015986445ad1" />
+<img width="1892" height="861" alt="Screenshot 2026-06-24 005104" src="https://github.com/user-attachments/assets/c1dbc786-652f-4ffe-a5f3-4a84952ed942" />
+
 
 ##
 
