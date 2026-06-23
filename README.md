@@ -2,11 +2,11 @@
 
 <img width="1892" height="861" alt="image" src="https://github.com/user-attachments/assets/78d8973f-b3d3-4cb0-a3f2-015986445ad1" />
 
-
+##
 
 https://github.com/user-attachments/assets/1501973d-aa2b-4f5b-89c8-581ac06031f7
 
-
+##
 
 GetMeAChai is a full-stack creator support platform that allows creators, students, developers, and communities to receive support from their audience through a simple and transparent payment experience.
 
